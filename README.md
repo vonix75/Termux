@@ -1,2 +1,0 @@
-# Termux
-Termux theme
