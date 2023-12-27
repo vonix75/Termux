@@ -43,7 +43,7 @@
 
 * `apt-get update -y`
 * `apt-get upgrade -y`
-* `git clone https://github.com/h4ck3r0/Termux-banner`
+* `git clone https://github.com/vonix75/Termux-banner`
 * `cd $HOME`
 * `ls`
 * `cd Termux-banner`
